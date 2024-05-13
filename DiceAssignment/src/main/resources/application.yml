@@ -1,0 +1,10 @@
+spring:
+  security:
+    user:
+      name: admin
+      password: admin
+weather:
+  Url: https://forecast9.p.rapidapi.com/rapidapi/forecast/{name}/summary/
+  HourlyURL: https://forecast9.p.rapidapi.com/rapidapi/forecast/{name}/hourly/
+  Key: 4ab6fc9c64msh774a4935c1f0008p1ab195jsn3b73be2c776f
+  host: forecast9.p.rapidapi.com

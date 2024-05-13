@@ -4,11 +4,17 @@ Write a server by using SpringBoot Java and integrate Weather API from Rapid API
 
 Steps to Run the Project
 1: Download the Project
+
 2: Import the Project in Any IDE(Intelij Idea,Eclipse)
+
 3: Build the Project
+
 4: To Run the Project Select Maven in Edit Configuration and Type Spring-boot: Run
+
 5: Now Project will Run at Port 8080.
-6: Before Using Any API first it will say to authentication .
+
+6: Before Using Any API first it will say to authentication.
+
 7: After Authentication we can use Our Api.
 
 Summary of the API
